@@ -110,7 +110,6 @@ th, td {
 th {
 	color: var(--fg-soft);
 	font-weight: 600;
-	white-space: nowrap;
 }
 
 ul, ol {
